@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+mlxtend
+matplotlib
+seaborn
+xgboost
+statsmodels
+shap
+jupyter
+pyyaml
+pyarrow
+nbformat
